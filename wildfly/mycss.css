@@ -1,0 +1,16 @@
+ 
+ 
+
+/* Stile del testo nell'elenco */
+.small {
+    font-size: 55%;
+    color: black; /* Colore del testo */
+    margin-bottom: 0.5em; /* Spazio tra gli elementi dell'elenco */
+}
+
+.extrasmall {
+    font-size: 35%;
+    color: black; /* Colore del testo */
+    margin-bottom: 0.5em; /* Spazio tra gli elementi dell'elenco */
+}
+
